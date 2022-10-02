@@ -1,2 +1,5 @@
 # GoogleAdMob
 I integrated the app GoogleAdmob to show advertisement to users. I used interstitial advertising which is a full-page advertising. To close the add, the users can click cross button easily. 
+
+<img width="368" alt="adMob1" src="https://user-images.githubusercontent.com/92036779/193471414-ea5c1438-6989-4720-8eaf-a6a4b4c0555e.png">
+<img width="361" alt="adMob2" src="https://user-images.githubusercontent.com/92036779/193471419-d87585af-750a-4d17-8c06-15f0aa9935d8.png">
